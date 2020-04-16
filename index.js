@@ -11,4 +11,3 @@ array.forEach(callback)
 return array
 
 }
-
