@@ -11,4 +11,3 @@ arrayq.forEach(callback);
 return arrayq;
 
 }
-
