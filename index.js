@@ -6,8 +6,8 @@ array.forEach((element, index) => {console.log(`${index}: ${element}`)})
 
 function iterate(callback) {
 
-arrayq = ["goal"];
-arrayq.forEach(callback);
-return arrayq;
+array = ["goal"];
+array.forEach(callback);
+return array;
 
 }
