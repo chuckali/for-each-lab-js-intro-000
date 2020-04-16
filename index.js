@@ -9,5 +9,5 @@ iterate(callback) {
 array = [goal]
 array.forEach(callback)
 return array
-  
+
 }
