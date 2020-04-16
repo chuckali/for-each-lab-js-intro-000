@@ -4,7 +4,7 @@ array.forEach((element, index) => {console.log(`${index}: ${element}`)})
 
 }
 
-iterate(callback) {
+function iterate(callback) {
 
 arrayq = [goal];
 arrayq.forEach(callback);
